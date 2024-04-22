@@ -1,0 +1,9 @@
+{
+    "spotify_credentials": {
+      "client_id": "YOUR_CLIENT_ID",
+      "client_secret": "YOUR_CLIENT_SECRET",
+      "username": "YOUR_SPOTIFY_USERNAME",
+      "redirect_uri": "http://localhost:8888/callback"
+    },
+    "yandex_token": "YOUR_YANDEX_TOKEN"
+}
